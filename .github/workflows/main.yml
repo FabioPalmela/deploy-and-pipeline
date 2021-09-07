@@ -11,5 +11,4 @@ jobs:
     - name: 🚚 Get latest code
       uses: actions/checkout@main
     
-    - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@4.1.0
+    
